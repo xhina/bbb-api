@@ -20,6 +20,7 @@ search: true
 # Introduction
 
 BooBoo BBB!!
+GOGOGOGOGO!
 
 # Authentication
 

@@ -1,5 +1,5 @@
 ---
-title: BOO BOO B API Reference
+title: BBB API Documentation
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -8,8 +8,8 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
+  #- <a href='#'>Sign Up for a Developer Key</a>
+  #- <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
 includes:
   - errors
@@ -19,8 +19,8 @@ search: true
 
 # Introduction
 
-BooBoo BBB!!
-GOGOGOGOGO!
+Welcome!
+BBB-Project API Documentation.
 
 # Authentication
 
